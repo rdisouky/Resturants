@@ -3,7 +3,7 @@ Course Project: Running queries, editing, adding, and deleting data into the ind
 
 How to Run:
 
-Clone this repository
+Clone this repository,
 Open your Terminal, initiate npm, install express and graphql and run your queries on port 4000!
 Enjoy!
 
